@@ -1,0 +1,1 @@
+document.write("index01...搜2索2011s3")

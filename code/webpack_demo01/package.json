@@ -1,0 +1,13 @@
+{
+  "name": "webpack_demo01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+		//修改的地方
+    "build": "webpack --mode development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

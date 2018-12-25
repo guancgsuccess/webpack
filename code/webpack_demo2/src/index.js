@@ -1,0 +1,1 @@
+document.write("www.aistar.tech")
