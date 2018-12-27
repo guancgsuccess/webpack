@@ -1,0 +1,10 @@
+body {
+  background-color: yellow;
+  background: url(../imgs/41080489f328d4323ca05243663d8d5e.png) no-repeat;
+}
+
+#root {
+  color: yellowgreen;
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
