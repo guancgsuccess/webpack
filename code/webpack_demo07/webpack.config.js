@@ -16,6 +16,18 @@ module.exports={
 		//生成出来的是test01.js和test02.js
 		filename:'[name].js'
 	},
+	module:{
+		//配置一个rules(规则),是一个数组,里面可以包含多条规则
+		rules:[
+			{
+				//test表示测试什么文件类型
+				//利用正则表示所有以.css后缀的样式文件
+				test:/\.css$/,
+				//使用'style-loader','css-loader'
+				use:['style-loader','css-loader']
+			}
+		]
+	},
 	devServer:{
 		//设置服务器的访问的根目录
 		contentBase:path.resolve(__dirname,'dist'),
