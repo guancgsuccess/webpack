@@ -95,7 +95,7 @@ npm i webpack-dev-server -D
 
 4. **确保最终目录结构如下:**
 
-![alt text](imgs/server.png)
+![alt text](imgs/server.png) 
 
 5. **启动虚拟服务器**
 

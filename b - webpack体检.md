@@ -2,7 +2,7 @@
 
 目录结构如下:
 
-![alt text](imgs/demo_folder.png)
+![alt text](imgs/demo_folder.png) 
 
 dist/index.html主要代码如下:
 
@@ -93,7 +93,7 @@ webpack
 
 获取采取如下方式:
 
-![alt text](imgs/config.png)
+![alt text](imgs/config.png) 
 
 ##### 注意点
 

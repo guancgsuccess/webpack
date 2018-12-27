@@ -56,3 +56,32 @@ module.exports = rules
    ~~~
 
 3. 打包部署...
+
+
+
+#### 操作实例
+
+* 目录结构如下:
+
+![alt text](imgs/moudles.png) 
+
+
+
+* **a.js文件中编译内容如下:**
+
+  ~~~js
+  function show(){
+  	return "我是模块"
+  }
+  
+  module.exports = show
+  ~~~
+
+* webpack.config.js文件中进行引入
+
+  ~~~js
+  const modTest = require('./module/a.js')
+  console.log('===='+modTest()+'====')
+  ~~~
+
+

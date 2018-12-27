@@ -30,7 +30,7 @@ npm i css-loader -D
 
 目录结构如下:
 
-![alt text](imgs/loaders.png)
+![alt text](imgs/loaders.png) 
 
 
 
@@ -43,7 +43,7 @@ document.write("loaders...")
 
 此时,执行`npm run build`将会报错:
 
-![alt text](imgs/loaders_error.png)
+![alt text](imgs/loaders_error.png) 
 
 ### 解决方案
 

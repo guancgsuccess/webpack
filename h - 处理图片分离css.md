@@ -65,7 +65,7 @@ oImg.src = imgSrc;
 
 
 
-![alt text](imgs/loaders_img.png)
+![alt text](imgs/loaders_img.png) 
 
 
 
@@ -128,7 +128,7 @@ rules:[
 5. .css文件增加一个处理函数**ExtractTextPlugin.extract**提取出**css**出来
 
     ~~~
-   //配置一个rules(规则),是一个数组,里面可以包含多条规则
+      //配置一个rules(规则),是一个数组,里面可以包含多条规则
        rules:[
        {
            //test表示测试什么文件类型

@@ -6,7 +6,7 @@
 
 
 
-![alt text](imgs/more_entry.png)
+![alt text](imgs/more_entry.png) 
 
 **pakage.json文件内容如下:**
 
@@ -51,7 +51,7 @@ npm run build
 
 
 
-![alt text](imgs/more.png)
+![alt text](imgs/more.png) 
 
 一旦执行成功之后,将会在dist目录下面出现一个index.js文件.
 
