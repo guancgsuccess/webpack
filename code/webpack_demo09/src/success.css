@@ -1,0 +1,18 @@
+body{
+	background-color: yellow;
+	background: url(imgs/school_all.png) no-repeat;
+}
+
+#root{
+    color: yellowgreen;
+
+    transform: rotate(45deg);
+}
+
+.a{
+	color: red;
+}
+
+.b{
+	color: gray;
+}

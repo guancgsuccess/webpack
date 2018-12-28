@@ -1,0 +1,5 @@
+{
+    "entry":"./src/index01.js",
+    "port":"8088",
+    "host":"localhost"
+}
